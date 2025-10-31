@@ -1,5 +1,7 @@
 The main vi ("motor test.vi) is located in motor_epics_labview/Software/vitruvio_4.0/membra/motor
+
 The core vi is "motor run execution.vi" (located in the same folder) and it works with CaLab routines.
+
 The allowed IOCs should be compiled as my other IOCs (see my other repositories); however in the global IOC vi (pectus folder), there is the list of the epics records. In the following the records list:
 
 record,ca,prefix,label,type
